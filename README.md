@@ -10,16 +10,14 @@
 * 1060302 - 直角三角形列印
 * 1060303 - 質數計算
 * 1060304 - 體質指數BMI
-* 1060305 - 矩陣相加
-  <img src="CSD_Level-C_1060301-5.png" width="50%" height="50%" alt="題1~5">
+* 1060305 - 矩陣相加  
+  <img src="CSD_Level-C_1060301-5.png" width="30%" height="30%" alt="題1~5">
 
 * 1060306 - 身分證號碼檢查  
-  ![題6](CSD_Level-C_1060306.png)
+  <img src="CSD_Level-C_1060306.png" width="30%" height="30%" alt="題6">
 
 * 1060307 - 撲克牌比大小  
-  ![題7](CSD_Level-C_1060307.png)
+  <img src="CSD_Level-C_1060307.png" width="30%" height="30%" alt="題7">
 
 * 1060308 - 分數加、減、乘、除運算  
-  ![題8](CSD_Level-C_1060308.png)
-
-  
+  <img src="CSD_Level-C_1060308.png" width="30%" height="30%" alt="題8">
